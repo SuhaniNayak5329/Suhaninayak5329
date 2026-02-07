@@ -7,6 +7,7 @@
 
 I enjoy building real-world software solutions and working on web applications,
 database-driven systems, and problem-solving projects.
+🔗 LinkedIn: https://www.linkedin.com/in/suhani-nayak-635770324
 
 ---
 
