@@ -1,16 +1,31 @@
-## Hi there 👋
+## 🌟 About Me
 
-<!--
-**SuhaniNayak5329/Suhaninayak5329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **Suhani Nayak**
 
-Here are some ideas to get you started:
+💻 B.Tech Computer Science student  
+🎯 Full Stack & Software Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real-world software solutions and working on web applications,
+database-driven systems, and problem-solving projects.
+
+---
+
+## 🛠️ Tech Stack
+- Languages: C++, Java, Python, JavaScript, SQL
+- Frontend: HTML, CSS, React
+- Core Areas: DSA, DBMS, Web Development
+
+---
+
+## 🔭 Currently Exploring
+- Full stack web applications
+- Software development best practices
+- DSA for problem solving
+- Real-world project building
+
+---
+
+## 🤝 Open to Collaborate On
+- Full Stack & Software Development projects
+- DSA-based problem solving
+- Database-driven applications
