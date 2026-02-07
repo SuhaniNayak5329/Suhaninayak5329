@@ -30,3 +30,11 @@ database-driven systems, and problem-solving projects.
 - Full Stack & Software Development projects
 - DSA-based problem solving
 - Database-driven applications
+
+------
+## 🌐 Socials & Contact
+
+📧 **Email:** suhaninayak5329@gmail.com  
+📱 **Phone:** +91-7618230771  
+🔗 **LinkedIn:** https://www.linkedin.com/in/suhani-nayak-635770324
+
