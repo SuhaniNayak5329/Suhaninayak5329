@@ -1,15 +1,15 @@
 ## 🌟 About Me
 
-👋 Hi, I'm **Suhani Nayak**
+## 👋 Hi, I'm **Suhani Nayak**
 
-💻 B.Tech Computer Science student  
-🎯 Full Stack & Software Developer  
+💻 **B.Tech Computer Science Engineering Student**  
+🎯 **Full Stack & Software Developer**
 
-I enjoy building real-world software solutions and working on web applications,
+I enjoy building real-world software solutions and working on web applications,  
 database-driven systems, and problem-solving projects.
-🔗 LinkedIn: https://www.linkedin.com/in/suhani-nayak-635770324
-🔗 Portfolio Website: https://suhaninayak5329.github.io/My_portfolio_website/ 
----
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/suhani-nayak-635770324  
+🌐 **Portfolio:** https://suhaninayak5329.github.io/My_portfolio_website/
 
 ## 🛠️ Tech Stack
 - Languages: C++, Java, Python, JavaScript, SQL
