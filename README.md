@@ -37,5 +37,5 @@ database-driven systems, and problem-solving projects.
 📧 **Email:** suhaninayak5329@gmail.com  
 📱 **Phone:** +91-7618230771  
 🔗 **LinkedIn:** https://www.linkedin.com/in/suhani-nayak-635770324
-MY PORTFOLIO : http://127.0.0.1:5500/
+🌐 **Portfolio:** https://suhaninayak5329.github.io/My_portfolio_website/
 
